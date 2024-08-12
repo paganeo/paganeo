@@ -44,7 +44,7 @@ I'm passionate about coding and constantly exploring new technologies to push th
 - How to get started with **open-source contributions**.
 
 ## 😄 Pronouns: 
-- She/Her
+- He/Him
 
 ## ⚡ Fun fact:
 - I can spend hours debugging code and feel a thrill when that elusive bug finally gets squashed!
